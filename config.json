@@ -1,0 +1,16 @@
+{
+  "regions": [
+    {
+      "name": "Example Region",
+      "servers": [
+        {
+          "name": "Example Server",
+          "location": "Location",
+          "provider": "Provider",
+          "asn": "64512",
+          "websocket": "ws://localhost:5082"
+        }
+      ]
+    }
+  ]
+}
